@@ -4,20 +4,20 @@
 
 html {
     background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    font-family: helvetica;
     font-size: 0.95em;
     line-height: 1.5em;
 }
 
 ::selection {
-    color: #000; 
-    background: #ff0;
+    color: blue; 
+    background: pink;
 }
 
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: pink;
     line-height: 2.5em;
 }
 
